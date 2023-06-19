@@ -2,7 +2,7 @@
 A boilerplate to build R3F projects
 
 ```
-yarn
+yarn install
 
 yarn dev
 ```
