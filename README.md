@@ -1,5 +1,5 @@
 # r3f-vite-starter
-A boilerplate to build R3F projects
+3D animation homepage website based on React and Threejs
 
 ```
 yarn install
